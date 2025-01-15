@@ -1,10 +1,3 @@
-<style>
-    .mt {
-        margin-top: 32px;
-    }
-</style>
-
-
 # **Основные команды для взаимодействия с Git**
 
 - git init — инициализация репозитория
@@ -18,7 +11,7 @@
 - git checkout — переключение между ветками
 - git merge — слияние изменений из одной ветки в другую
 
-<p align="center" class="mt"> 
+<p align="center"> 
     <img  src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" alit="GIT LOGO" style="width: 500px"/>
 </p>
 
